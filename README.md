@@ -1,1 +1,1 @@
-# Emailer
+# KadoMailer
